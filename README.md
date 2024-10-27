@@ -22,7 +22,7 @@ A web-based music player inspired by Spotify, built using HTML, CSS, and JavaScr
 - **Google Fonts**: Montserrat font for a modern look.
   
 ## Demo:
-
+  https://tamanna-mondal.github.io/Spotify-Web-Player-Clone/
 ## Installation
 
 1. Clone the repository:
